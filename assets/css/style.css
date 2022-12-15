@@ -1,0 +1,37 @@
+.left-aside {
+  background-color: rgb(255, 115, 0);
+}
+.left-aside .process-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: white;
+}
+.left-aside .process-icon span {
+  font-size: 30px;
+  color: rgb(255, 115, 0);
+}
+.left-aside .process-inform h2, .left-aside .process-inform p {
+  color: #fff;
+}
+
+.right-aside .steps-card h2 {
+  font-size: 56px;
+  color: rgb(218, 217, 217);
+}
+.right-aside .steps-card h4 {
+  color: rgb(255, 115, 0);
+}
+.right-aside .steps-card i {
+  line-height: 28px;
+  font-size: 16px;
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: rgb(255, 115, 0);
+}
+.right-aside .steps-card .step-text p {
+  font-size: 18px;
+}/*# sourceMappingURL=style.css.map */
